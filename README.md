@@ -1,4 +1,4 @@
-# I am Yaana Rajput 👋
+# I am Yaana Rajput 
 
 * **Registration Number:** 25BCE10680
 * **Branch:** B.Tech Computer Science and Engineering
